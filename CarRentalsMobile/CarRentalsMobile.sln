@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalsMobile", "CarRentalsMobile\CarRentalsMobile.csproj", "{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87BF910-DF3F-45A9-B7E9-A718893F8BDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034F4BC3-357E-4D40-AAAF-ED136421353A}
+	EndGlobalSection
+EndGlobal
